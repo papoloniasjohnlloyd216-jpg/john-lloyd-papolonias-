@@ -2,7 +2,7 @@
 
 **'playing mobile games cooking • coding'**
 
-**'sandiwa tiniguiban puerto princesa city'**
+    **'📍sandiwa tiniguiban puerto princesa city'**
 
 | Role | institution|
 |------|------------|
