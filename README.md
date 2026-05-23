@@ -1,7 +1,8 @@
-# john-lloyd-papolonias-
-playing mobile games cooking • coding
+# john-lloyd-papolonias
 
-    **'📍sandiwa tiniguiban puerto princesa city'**
+**'coding•editing'**
+
+**'📍sandiwa tiniguiban puerto princesa city'**
 
 | Role | institution|
 |------|------------|
