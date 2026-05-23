@@ -6,8 +6,9 @@
 
 | Role | institution|
 |------|------------|
-| student | Engineering student|
+| BSELE -student | FULLBRIGHT COLLEGE|
 
-**'skills'**
-cooking
-playing basket ball
+|HOBBY|
+|-----|
+|•cooking🧑‍🍳|
+|•playing basket ball🏀|
