@@ -1,6 +1,5 @@
 # john-lloyd-papolonias-
-
-**'playing mobile games cooking • coding'**
+playing mobile games cooking • coding
 
     **'📍sandiwa tiniguiban puerto princesa city'**
 
